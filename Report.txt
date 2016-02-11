@@ -1,0 +1,6 @@
+
+Input size     time taken by skip list to add   time taken by tree map to add  No of elements removed  time taken to add and remove from skiplist    time taken to add and remove from tree map
+   100                 49                             32                     50                          60                                                 44  
+   1000                196                            112                    500                         280                                               159
+   10000               4157                           467                    5000                        483                                               520 
+   100000              22730                         1173                    50000                       24852                                             1863
