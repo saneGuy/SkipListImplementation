@@ -2,7 +2,8 @@
 
 The following methods of the SkipList are implemented.
 * add():  inserts  the  element  into  the skiplist.
-* Remove() :  removes the element from the skiplist  from all the levels .
+* Remove() :  removes the element from the skiplist  from all the levels.
+* Search() : search for an element in the skiplist
 * First() : will return the first element  from  the skiplist
 * Last() : will return the last element from the skiplist
 * Remove() : removes the element from all the levels in the skiplist.
